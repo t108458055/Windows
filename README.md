@@ -1,2 +1,2 @@
 # Windows
-cmmda
+command
